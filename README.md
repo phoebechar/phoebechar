@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi! I'm glad you're here! 🤗
 
 My name is Phoebe (she/her) and I'm a student in the class of 2027 at St. Lawrence University in Canton, NY! I am a Data Science major 💻 and Educational Studies minor 🍎. 
 

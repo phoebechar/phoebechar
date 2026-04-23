@@ -2,7 +2,9 @@
 
 My name is Phoebe (she/her) and I'm a student in the class of 2027 at St. Lawrence University in Canton, NY! I am a Data Science major 💻 and Educational Studies minor 🍎. 
 
-I love to work with stats related to sports and social justice! Specifically, if you want to know about downriver canoeing stats, I'm a **great** source.
+I love to work with stats related to social justice, education, and sports. Specifically, if you want to know about downriver canoeing stats, I'm a **great** source. (I happen to be great friends with the creator of the [primiere canoeing stats database](https://paddlestats.net)).
+
+In the Fall of 2026 I will be starting my Honors Project in data science! I will be working with data from the writing center on my campus. I am excited to learn more about working with qualitative data and to get more experience with messy real world data.
 
 <!--
 **phoebechar/phoebechar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
